@@ -1,0 +1,5 @@
+N - Queens problem is to place n - queens in such a manner on an n x n chessboard that no queens attack each other by being in the same row, column or diagonal.
+
+It can be seen that for n =1, the problem has a trivial solution, and no solution exists for n =2 and n =3.
+
+n = 1, 2, or 3 can only have one surviving queen.
